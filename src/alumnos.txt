@@ -1,0 +1,1 @@
+Nombre Alberto; Fecha de Nacimiento 1999-05-04; Curso DAWNombre Pepe; Fecha de Nacimiento 2000-04-02; Curso DAMNombre Lola; Fecha de Nacimiento 2001-02-06; Curso DAMNombre Juan; Fecha de Nacimiento 2003-08-07; Curso DAWNombre Laura; Fecha de Nacimiento 2003-07-03; Curso DAMNombre Raul; Fecha de Nacimiento 2002-08-02; Curso DAW
